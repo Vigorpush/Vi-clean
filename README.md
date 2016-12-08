@@ -3,7 +3,7 @@ Batch file to clean up Temp files on your windows Machine
 ## Versions
 Vleaner 1.0.bat is English Version  
 Vleaner bat is Chinese Version  
-`PS: There is a Chinese version, because I am Chinese `
+`PS: There is a Chinese version, because I am a Chinese `
 
 ## Environment
 Environmemnt | Performance Rate
