@@ -13,4 +13,4 @@ Environmemnt | Performance Rate
 *Windows 8* |  7 / 10
 *Windows 10* | 4 / 10
 *Linux*| 0 / 10
-*Mac*| -100 / 10
+*Mac*| -100 / 10 ;)
